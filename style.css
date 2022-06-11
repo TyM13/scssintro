@@ -14,12 +14,21 @@ img {
   width: 100%;
 }
 
+h1 {
+  color: rgb(0, 225, 255);
+}
+
 #main_container {
-  background-color: blue;
+  background-color: rgb(0, 225, 255);
 }
 #main_container > p {
-  color: brown;
+  color: rgb(0, 225, 255);
+  width: 100%;
 }
 #main_container > p:hover {
-  font-size: larger;
+  font-size: xx-large;
+}
+
+h3 {
+  color: rgb(0, 225, 255);
 }/*# sourceMappingURL=style.css.map */
