@@ -14,15 +14,12 @@ img {
   width: 100%;
 }
 
-h1 {
-  color: chocolate;
+#main_container {
+  background-color: blue;
 }
-
-p {
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  color: aqua;
+#main_container > p {
+  color: brown;
 }
-
-h3 {
-  font-weight: bolder;
+#main_container > p:hover {
+  font-size: larger;
 }/*# sourceMappingURL=style.css.map */
